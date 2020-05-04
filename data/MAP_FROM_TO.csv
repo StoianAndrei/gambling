@@ -1,0 +1,14 @@
+FORM,TO
+Quarter,QUARTER
+Year,YEAR
+Territorial Authority,TERRITORIAL_AUTHORITY
+TA - final,TA_FINAL
+Region,REGION
+GMP,GMP
+# venues,NR_VENUES
+# of Gaming Machines,NR_OF_GAMING_MACHINES
+Dep very low (1-2),DEP_VERY_LOW_1_2
+Dep medium low (3-4),DEP_MEDIUM_LOW_3_4
+Dep Medium (5-6),DEP_MEDIUM_5_6
+Dep medium high (7-8),DEP_MEDIUM_HIGH_7_8
+Dep High (9-10),DEP_HIGH_9_10

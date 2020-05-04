@@ -1,0 +1,6 @@
+﻿proc,group,name
+data_map,input,param_time_select
+data_map,input,param_project_select
+data_ts,input,param_time_select
+data_ts,input,param_project_select
+data_ts,md_base,param_region_select
